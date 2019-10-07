@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "71333178781",
+    "firebase_url": "https://icna-c3507.firebaseio.com",
+    "project_id": "icna-c3507",
+    "storage_bucket": "icna-c3507.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71333178781:android:b32e734d3b8d1374dcd374",
+        "android_client_info": {
+          "package_name": "com.originalstocks.icna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71333178781-csbq6l6ijhfrmki35uj6j3bj3fp95rv8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.originalstocks.icna",
+            "certificate_hash": "f74cd5bfc3c20ab986b699d01a42baac166d11d0"
+          }
+        },
+        {
+          "client_id": "71333178781-n8dke0bfa7gsgtnkg944q6rahbpmgoso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLb4-NYhprlUif_CL1-A4xO5n4MqKXcr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71333178781-n8dke0bfa7gsgtnkg944q6rahbpmgoso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
